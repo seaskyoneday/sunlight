@@ -32,6 +32,7 @@
             "value": "https://raw.githubusercontent.com/seaskyoneday/sunlight/main/etc/StoreFiles"
         }
     },
-    "repository": "",
+    "website": "https://github.com/seaskyoneday/sunlight",
+    "repository": "https://github.com/seaskyoneday/sunlight",
     "stack": "container"
 }
